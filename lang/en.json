@@ -19,7 +19,8 @@
         "gives you an Oreo cookie with a glass of milk!",
         "gives you a rainbow cookie made with love :heart:",
         "gives you an old cookie that was left out in the rain, it's moldy.",
-        "bakes you fresh cookies, it smells amazing."
+        "bakes you fresh cookies, it smells amazing.",
+        "has given you a MLG cookie. You can feel your power building."
     ],
     "balls": [
         "Signs point to yes.",
@@ -54,7 +55,9 @@
         "Probably.",
         "Are you kidding?",
         "Don't bet on it.",
-        "Forget about it."
+        "Forget about it.",
+        "Only chin chin will know.",
+        "That is classified"
     ],
     "nodatafound": "No previous data found.",
     "currentlang": "\/me Language currently set to: %%LANGUAGE%%",
